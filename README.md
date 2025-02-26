@@ -1,8 +1,4 @@
-Here's a well-structured README.md file for your repository:
 
-markdown
-Copy
-Edit
 # 📰 NewsSite Using Next.js
 
 This is a **news website** built using **Next.js**. The application fetches and displays news articles based on different categories such as business, science, sports, and more.
