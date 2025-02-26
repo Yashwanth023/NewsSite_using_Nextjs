@@ -26,8 +26,8 @@ git clone https://github.com/Yashwanth023/NewsSite_using_Nextjs.git
 cd NewsSite_using_Nextjs
 ```
 
-```sh
 2️⃣ Install Dependencies
+```sh
 npm install
 ```
 
